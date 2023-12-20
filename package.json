@@ -1,0 +1,23 @@
+{
+  "name": "asterplayer",
+  "version": "1.0.0",
+  "description": "Simple Javascript Video Player for Web Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asterschnee/asterplayer.git"
+  },
+  "keywords": [
+    "javascript",
+    "video-player"
+  ],
+  "author": "Yuka Astersea",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asterschnee/asterplayer/issues"
+  },
+  "homepage": "https://github.com/asterschnee/asterplayer#readme"
+}
